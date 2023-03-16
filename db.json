@@ -7,5 +7,27 @@
         "email": "gtatterton0@ehow.com"
       }
       
+    ],
+    "books": [
+      {
+        "id": 1,
+        "name": "harry potter",
+        "author": "donald" ,
+        "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg"
+      },
+      {
+        "id": 1,
+        "name": "harry potter",
+        "author": "donald" ,
+        "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg"
+      }
+      , {
+        "id": 1,
+        "name": "harry potter",
+        "author": "donald" ,
+        "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg"
+      }
+      
     ]
+
   }
